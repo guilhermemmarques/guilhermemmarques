@@ -1,7 +1,5 @@
 # Guilherme Marques
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   </br>🔧 Desenvolvimento Python: Experiência sólida em construir APIs robustas
   </br>🧪 Testes de Qualidade: Proficiência em elaborar testes eficientes com pytest
